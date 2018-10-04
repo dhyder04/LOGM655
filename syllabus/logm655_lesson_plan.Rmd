@@ -13,9 +13,9 @@ Each student will be required to develop slides, an R tutorial, and content to t
 - Text Clustering
 - Sentiment Analysis
 
-During those lessons where you are not preparing a lesson on the topic, you will develop a 1-2 page paper summarizing the topic.  Use your space wisely, papers should be single spaced, Times New Roman font, 11 pt. and should be titled.   The paper should be formatted as a general titled paper, with your name and course in the upper right hand corner.  You are seeking to describe the topic and paraphrasing from the learning material your thoughts on the topic.  Additionally, you are to consider how the topic could be applied to your project (even if you don’t plan to apply the topic to your project).
+During those lessons where you are not preparing a lesson on the topic, you will develop a 1 page paper summarizing the topic.  Use your space wisely, papers should be single spaced, Times New Roman font, 11 pt. and should be titled.   The paper should be formatted as a general titled paper, with your name and course in the upper right hand corner.  You are seeking to describe the topic and paraphrasing from the learning material your thoughts on the topic.  Additionally, you are to consider how the topic could be applied to your project (even if you don’t plan to apply the topic to your project).
 
-Bottom line:  During each student led class, each student is responsible either to teach the class and the material associated with that, or responsible for a 1-2 page paper summarizing the topic of the day.
+Bottom line:  During each student led class, each student is responsible either to teach the class and the material associated with that, or responsible for a 1 page paper summarizing the topic of the day.
 
 Material that can be used to assist include, but is not limited to:
 
