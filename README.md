@@ -346,7 +346,7 @@ While these requirements are minimums, the intent is that the problem is
 analyzed according to the concepts presented in this course and that the
 results are articulated in a clear manner.
 
-## Deliverables
+### Deliverables
 
 This project is worth **60% of your total grade** for this class. You
 will provide two deliverables.
