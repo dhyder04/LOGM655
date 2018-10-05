@@ -200,7 +200,7 @@ __This activity is worth 20% of your overall course grade.__ Student grades for 
 
 This course requires completion of an <u>individual</u> project that implements one or more of the the methods presented in the class.  The intent of the project is to apply one or multiple concepts learned within the class to an actual data set in order to perform knowledge discovery.  __The project must be approved by Maj Freels, NLT 19 October 2018.__  Students may use an application within their thesis project for work within this class.  The data set used for this project can be either pre-formatted text or something in textual form.  At a bare minimum, the text should include more than 5,000 words and should be in English.  While these requirements are minimums, the intent is that the problem is analyzed according to the concepts presented in this course and that the results are articulated in a clear manner. 
  
-## Deliverables
+### Deliverables
 
 This project is worth __60% of your total grade__ for this class.  You will provide two deliverables.
 
