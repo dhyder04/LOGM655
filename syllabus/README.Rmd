@@ -177,13 +177,13 @@ For both of these activities students will be separated into four teams - the nu
 
 Student teams will be assigned to lead class discussions for both class meetings during one week of the quarter - the specific weeks are specified in the course syllabus. What the teams should during these class meetings is described below. My goal is to balance the number of students in each team - which means that some students may not be assigned to their prefereed topic.  However, preference will be given to students who can show that they are working on thesis projects related to one of these topic areas.
 
-#### Activity $\# 1$ Overview of Current Methods (20 pts):
+#### Activity #1 Overview of Current Methods (20 pts):
 
 During the first class meeting of their assigned week, teams will present a detailed overview of the current methods used to accomplish their chosen goal.  Teams should present the concept and mathematical theory behind several methods used to accomplish their chosen text mining goal.  Teams can use any publicly available resource, so long as they cite them in their presentation.  
 
 __This activity is worth 20% of your overall course grade.__ Student grades for this activity will be graded based on (1) completion of the assignment, and (2) the degree to which each student contributed to the team in completing this activity. I will assign this value based a survey each student will fill out to describe the level of participation for each member of the team.  The survey will be used to distribute the grade appropriately as demonstrated by your effort towards assisting the group accomplish the assignment.  Survey scores will be based on a scale from 1 to 5, where a '5' means that the student was very involved in the effort and made important contributions a '1' means that a student was not involved and made few (if any) contributions.
 	
-#### Activity #\# 2$ R Programming Tutorial (20 pts):
+#### Activity #2 R Programming Tutorial (20 pts):
 
 During the second class meeting of their assigned week, teams will give a tutorial on how to use the R programming language to implement the text mining methods and accomplish the goal.  There are a number of excellent resources to help with this project.
 
@@ -204,7 +204,7 @@ This course requires completion of an <u>individual</u> project that implements 
 
 This project is worth __60% of your total grade__ for this class.  You will provide two deliverables.
 
-1. __Project IPR – Due Friday, 3 November (10 pts)__ -   This should be a focused 4-5 slide presentation (no more than 5 slides).  The goal of these slides is to describe what you are doing, why and where you are in your analysis.  You will not present this presentation; make sure the slides can speak for themselves (no use of notes in powerpoint – just the slides).  At a minimum, the slides should include the following:
+1. __Project IPR - Due Friday, 3 November (10 pts)__ -   This should be a focused 4-5 slide presentation (no more than 5 slides).  The goal of these slides is to describe what you are doing, why and where you are in your analysis.  You will not present this presentation; make sure the slides can speak for themselves (no use of notes in powerpoint – just the slides).  At a minimum, the slides should include the following:
 
 - Title Slide
 - Purpose 
@@ -217,7 +217,7 @@ This project is worth __60% of your total grade__ for this class.  You will prov
    -	Work not used in any other class previously
 -	Discuss Next Steps
 
-2. __Project Report – Due Friday, 8 December (50 pts)__ - For this part of the project assignment, provide a written report describing your analysis of your text and how it informs on the problem laid out in your project proposal.  Focus on insights, trends and analysis. This is where you are allowed to put the work you’ve done, but remember this document should flow.    This document (not including appendices) should be no longer than 20 pages (single spaced), with any charts/graphs relevant to the discussion imbedded and referenced in the body of the document.  Bulky or large figures or charts and examples of your code should be put into the appendix(cies).  The format of the report should have at least the following headings: 
+2. __Project Report - Due Friday, 8 December (50 pts)__ - For this part of the project assignment, provide a written report describing your analysis of your text and how it informs on the problem laid out in your project proposal.  Focus on insights, trends and analysis. This is where you are allowed to put the work you’ve done, but remember this document should flow.    This document (not including appendices) should be no longer than 20 pages (single spaced), with any charts/graphs relevant to the discussion imbedded and referenced in the body of the document.  Bulky or large figures or charts and examples of your code should be put into the appendix(cies).  The format of the report should have at least the following headings: 
 
 - Abstract
 - Problem Background (ending with a clear statement of the problem)
