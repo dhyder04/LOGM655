@@ -280,7 +280,7 @@ assigned to their prefereed topic. However, preference will be given to
 students who can show that they are working on thesis projects related
 to one of these topic areas.
 
-#### Activity \(\# 1\) Overview of Current Methods (20 pts):
+#### Activity \#1 Overview of Current Methods (20 pts):
 
 During the first class meeting of their assigned week, teams will
 present a detailed overview of the current methods used to accomplish
@@ -301,7 +301,7 @@ from 1 to 5, where a ‘5’ means that the student was very involved in the
 effort and made important contributions a ‘1’ means that a student was
 not involved and made few (if any) contributions.
 
-#### Activity \#\# 2$ R Programming Tutorial (20 pts):
+#### Activity \#2 R Programming Tutorial (20 pts):
 
 During the second class meeting of their assigned week, teams will give
 a tutorial on how to use the R programming language to implement the
@@ -351,9 +351,9 @@ results are articulated in a clear manner.
 This project is worth **60% of your total grade** for this class. You
 will provide two deliverables.
 
-1.  **Project IPR â€“ Due Friday, 3 November (10 pts)** - This should be
-    a focused 4-5 slide presentation (no more than 5 slides). The goal
-    of these slides is to describe what you are doing, why and where you
+1.  **Project IPR - Due Friday, 3 November (10 pts)** - This should be a
+    focused 4-5 slide presentation (no more than 5 slides). The goal of
+    these slides is to describe what you are doing, why and where you
     are in your analysis. You will not present this presentation; make
     sure the slides can speak for themselves (no use of notes in
     powerpoint â€“ just the slides). At a minimum, the slides should
@@ -374,18 +374,17 @@ will provide two deliverables.
 
 <!-- end list -->
 
-2.  **Project Report â€“ Due Friday, 8 December (50 pts)** - For this
-    part of the project assignment, provide a written report describing
-    your analysis of your text and how it informs on the problem laid
-    out in your project proposal. Focus on insights, trends and
-    analysis. This is where you are allowed to put the work youâ€™ve
-    done, but remember this document should flow. This document (not
-    including appendices) should be no longer than 20 pages (single
-    spaced), with any charts/graphs relevant to the discussion imbedded
-    and referenced in the body of the document. Bulky or large figures
-    or charts and examples of your code should be put into the
-    appendix(cies). The format of the report should have at least the
-    following headings:
+2.  **Project Report - Due Friday, 8 December (50 pts)** - For this part
+    of the project assignment, provide a written report describing your
+    analysis of your text and how it informs on the problem laid out in
+    your project proposal. Focus on insights, trends and analysis. This
+    is where you are allowed to put the work youâ€™ve done, but remember
+    this document should flow. This document (not including appendices)
+    should be no longer than 20 pages (single spaced), with any
+    charts/graphs relevant to the discussion imbedded and referenced in
+    the body of the document. Bulky or large figures or charts and
+    examples of your code should be put into the appendix(cies). The
+    format of the report should have at least the following headings:
 
 <!-- end list -->
 
