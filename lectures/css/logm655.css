@@ -8,7 +8,8 @@ pre {
  border-color: #e7e7e7;
  color: #00428C;
  background-color: #e7e7e7;
- margin: 30px 150px 30px 0px;
+ width: 90%;
+ margin: 30px auto 30px auto;
  border-top-right-radius: 10px;
  border-top-left-radius: 10px;
  border-bottom-right-radius: 10px;
@@ -109,7 +110,7 @@ ul li {
 }
 
 a {
-  font-weight: bold !important;
+  font-weight: bold !important;◄
 }
 
 #TOC > ul > li {
