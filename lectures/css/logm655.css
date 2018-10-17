@@ -103,3 +103,8 @@ div.main-container {
 p {
     font-size: 13pt !important;
 }
+
+ul li {
+    font-size: 13pt !important;
+    font-weight: bold !important;
+}
