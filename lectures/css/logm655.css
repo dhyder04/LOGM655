@@ -106,5 +106,14 @@ p {
 
 ul li {
     font-size: 13pt !important;
-    font-weight: bold !important;
+}
+
+a {
+  font-weight: bold !important;
+}
+
+#TOC > ul > li {
+  
+  font-size: 12pt;
+  font-weight: normal;
 }
